@@ -1,0 +1,81 @@
+0.000018 - Simulator program starting
+0.000313 - OS: Preparing process 3
+0.000392 - OS: Starting process 3
+0.000454 - Process 3: start processing action
+0.100786 - Process 3: end processing action
+0.100885 - Process 3: allocating memory
+0.200998 - Process 3: memory allocated at 0x00000000
+0.201106 - Process 3: start monitor input
+0.301325 - Process 3: end monitor input
+0.301428 - Process 3: start hard drive input
+0.401548 - Process 3: end hard drive input
+0.401649 - Process 3: start printer output
+0.501774 - Process 3: end printer output
+0.501894 - Process 3: allocating memory
+0.602033 - Process 3: memory allocated at 0x00000080
+0.602134 - Process 3: start printer output
+0.702250 - Process 3: end printer output
+0.702347 - Process 3: allocating memory
+0.802500 - Process 3: memory allocated at 0x00000100
+0.802601 - Process 3: start processing action
+0.902709 - Process 3: end processing action
+0.902799 - OS: removing process 3
+0.902834 - OS: Preparing process 1
+0.902862 - OS: Starting process 1
+0.902937 - Process 1: start processing action
+1.003264 - Process 1: end processing action
+1.003349 - Process 1: allocating memory
+1.103459 - Process 1: memory allocated at 0x00000180
+1.103550 - Process 1: start monitor input
+1.203704 - Process 1: end monitor input
+1.203962 - Process 1: start hard drive input
+1.304387 - Process 1: end hard drive input
+1.304472 - Process 1: start printer output
+1.404623 - Process 1: end printer output
+1.404724 - Process 1: allocating memory
+1.504829 - Process 1: memory allocated at 0x00000200
+1.504945 - Process 1: start printer output
+1.605036 - Process 1: end printer output
+1.605150 - Process 1: allocating memory
+1.705247 - Process 1: memory allocated at 0x00000280
+1.705346 - Process 1: start hard drive output
+1.905502 - Process 1: end hard drive output
+1.905618 - Process 1: start processing action
+2.005712 - Process 1: end processing action
+2.005803 - Process 1: start printer output
+2.105946 - Process 1: end printer output
+2.106047 - Process 1: allocating memory
+2.206155 - Process 1: memory allocated at 0x00000300
+2.206273 - OS: removing process 1
+2.206311 - OS: Preparing process 2
+2.206341 - OS: Starting process 2
+2.206376 - Process 2: start processing action
+2.306497 - Process 2: end processing action
+2.306619 - Process 2: allocating memory
+2.406757 - Process 2: memory allocated at 0x00000380
+2.406883 - Process 2: start monitor input
+2.507028 - Process 2: end monitor input
+2.507148 - Process 2: start hard drive input
+2.607239 - Process 2: end hard drive input
+2.607337 - Process 2: start printer output
+2.707474 - Process 2: end printer output
+2.707580 - Process 2: allocating memory
+2.807754 - Process 2: memory allocated at 0x00000400
+2.807944 - Process 2: start printer output
+2.908089 - Process 2: end printer output
+2.908165 - Process 2: allocating memory
+3.008299 - Process 2: memory allocated at 0x00000000
+3.008389 - Process 2: start hard drive input
+3.108512 - Process 2: end hard drive input
+3.108610 - Process 2: start hard drive output
+3.208797 - Process 2: end hard drive output
+3.208877 - Process 2: start hard drive output
+3.409068 - Process 2: end hard drive output
+3.409186 - Process 2: allocating memory
+3.509281 - Process 2: memory allocated at 0x00000080
+3.509383 - Process 2: start processing action
+3.609501 - Process 2: end processing action
+3.609624 - Process 2: start printer output
+3.709778 - Process 2: end printer output
+3.709864 - OS: removing process 2
+3.709897 - Simulator program ending
